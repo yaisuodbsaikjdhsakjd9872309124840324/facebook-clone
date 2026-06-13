@@ -7,5 +7,6 @@ export default defineConfig({
   plugins: [react()],
   server: {
     port: 3000,
+    allowedHosts:["kjasdbjksadbkasljdh0918273981273.onrender.com"],
   },
 });
